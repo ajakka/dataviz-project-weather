@@ -1,0 +1,10 @@
+.marker {
+  fill: #81b622;
+  fill-opacity: 0.75;
+  transition: all 0.2s ease-in-out;
+}
+.marker:hover {
+  fill: #73a11e;
+  fill-opacity: 1;
+  cursor: pointer;
+}

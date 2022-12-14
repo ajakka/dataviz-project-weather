@@ -1,0 +1,3488 @@
+[
+  {
+    "city_name": "Laayoune",
+    "city_name_ar": "العيون / العيون",
+    "latitude": 27.1418,
+    "longitude": -13.18797,
+    "id": 41148
+  },
+  {
+    "city_name": "Laayoune Plage",
+    "city_name_ar": "العيون بلاج",
+    "latitude": 27.09611,
+    "longitude": -13.41583,
+    "id": 41149
+  },
+  {
+    "city_name": "Dakhla",
+    "city_name_ar": "الداخلة",
+    "latitude": 23.68477,
+    "longitude": -15.95798,
+    "id": 41150
+  },
+  {
+    "city_name": "Smara",
+    "city_name_ar": "السمارة",
+    "latitude": 26.73841,
+    "longitude": -11.67194,
+    "id": 41151
+  },
+  {
+    "city_name": "Ceuta",
+    "city_name_ar": "سبتة",
+    "latitude": 35.88933,
+    "longitude": -5.31979,
+    "id": 41164
+  },
+  {
+    "city_name": "Melilla",
+    "city_name_ar": "مليلية",
+    "latitude": 35.29369,
+    "longitude": -2.93833,
+    "id": 41165
+  },
+  {
+    "city_name": "Tarfaya",
+    "city_name_ar": "طرفاية",
+    "latitude": 27.7983,
+    "longitude": -12.92604,
+    "id": 90244
+  },
+  {
+    "city_name": "Akhfennir",
+    "city_name_ar": "أخفنير",
+    "latitude": 28.04455,
+    "longitude": -12.05157,
+    "id": 90245
+  },
+  {
+    "city_name": "Taghazout",
+    "city_name_ar": "تغازوت",
+    "latitude": 30.54259,
+    "longitude": -9.71115,
+    "id": 90246
+  },
+  {
+    "city_name": "Kariat Arkmane",
+    "city_name_ar": "Kariat Arkmane",
+    "latitude": 35.1071,
+    "longitude": -2.74693,
+    "id": 90247
+  },
+  {
+    "city_name": "Martil",
+    "city_name_ar": "مرتيل",
+    "latitude": 35.61662,
+    "longitude": -5.27522,
+    "id": 90248
+  },
+  {
+    "city_name": "Essaouira",
+    "city_name_ar": "الصويرة",
+    "latitude": 31.5125,
+    "longitude": -9.77,
+    "id": 90249
+  },
+  {
+    "city_name": "Azla",
+    "city_name_ar": "Azla",
+    "latitude": 35.55303,
+    "longitude": -5.24472,
+    "id": 90250
+  },
+  {
+    "city_name": "Tizgane",
+    "city_name_ar": "تيزجان",
+    "latitude": 35.41211,
+    "longitude": -5.06836,
+    "id": 90251
+  },
+  {
+    "city_name": "El Jadida",
+    "city_name_ar": "الجديدة",
+    "latitude": 33.25492,
+    "longitude": -8.50602,
+    "id": 90252
+  },
+  {
+    "city_name": "Kenitra",
+    "city_name_ar": "القنيطرة",
+    "latitude": 34.26101,
+    "longitude": -6.5802,
+    "id": 90253
+  },
+  {
+    "city_name": "Tamri",
+    "city_name_ar": "تمري",
+    "latitude": 30.69602,
+    "longitude": -9.82972,
+    "id": 90254
+  },
+  {
+    "city_name": "Asilah",
+    "city_name_ar": "أصيلة",
+    "latitude": 35.46522,
+    "longitude": -6.03415,
+    "id": 90255
+  },
+  {
+    "city_name": "Ksar el Kebir",
+    "city_name_ar": "القصر الكبير",
+    "latitude": 35.00174,
+    "longitude": -5.90534,
+    "id": 90256
+  },
+  {
+    "city_name": "Taouima",
+    "city_name_ar": "التويمة",
+    "latitude": 35.1299,
+    "longitude": -2.9279,
+    "id": 90257
+  },
+  {
+    "city_name": "Moulay Abdallah",
+    "city_name_ar": "مولاي عبد الله",
+    "latitude": 33.19664,
+    "longitude": -8.58811,
+    "id": 90258
+  },
+  {
+    "city_name": "Boukhalef",
+    "city_name_ar": "بوخالف",
+    "latitude": 35.7328,
+    "longitude": -5.89954,
+    "id": 90259
+  },
+  {
+    "city_name": "Nador",
+    "city_name_ar": "الناظور",
+    "latitude": 35.16813,
+    "longitude": -2.93352,
+    "id": 90260
+  },
+  {
+    "city_name": "Mechra Belqsiri",
+    "city_name_ar": "Mechra Belqsiri",
+    "latitude": 34.57395,
+    "longitude": -5.95371,
+    "id": 90261
+  },
+  {
+    "city_name": "Tangier",
+    "city_name_ar": "طنجة",
+    "latitude": 35.76727,
+    "longitude": -5.79975,
+    "id": 90262
+  },
+  {
+    "city_name": "Oued Laou",
+    "city_name_ar": "وادي لو",
+    "latitude": 35.4484,
+    "longitude": -5.09627,
+    "id": 90263
+  },
+  {
+    "city_name": "Dar Bouazza",
+    "city_name_ar": "دار بوعزة",
+    "latitude": 33.51535,
+    "longitude": -7.81677,
+    "id": 90264
+  },
+  {
+    "city_name": "Sidi Yahia el Gharb",
+    "city_name_ar": "سيدي يحيى الغرب",
+    "latitude": 34.30652,
+    "longitude": -6.30618,
+    "id": 90265
+  },
+  {
+    "city_name": "Casablanca",
+    "city_name_ar": "الدار البيضاء",
+    "latitude": 33.58831,
+    "longitude": -7.61138,
+    "id": 90266
+  },
+  {
+    "city_name": "Azemmour",
+    "city_name_ar": "أزمور",
+    "latitude": 33.28952,
+    "longitude": -8.3425,
+    "id": 90267
+  },
+  {
+    "city_name": "Mohammedia",
+    "city_name_ar": "المحمدية",
+    "latitude": 33.68607,
+    "longitude": -7.38298,
+    "id": 90268
+  },
+  {
+    "city_name": "Agadir",
+    "city_name_ar": "أغادير",
+    "latitude": 30.42018,
+    "longitude": -9.59815,
+    "id": 90269
+  },
+  {
+    "city_name": "Inezgane",
+    "city_name_ar": "إنزگان",
+    "latitude": 30.35535,
+    "longitude": -9.53639,
+    "id": 90270
+  },
+  {
+    "city_name": "Sale",
+    "city_name_ar": "سلا",
+    "latitude": 34.0531,
+    "longitude": -6.79846,
+    "id": 90271
+  },
+  {
+    "city_name": "Souq Larb'a al Gharb",
+    "city_name_ar": "سوق لاربعة الغرب",
+    "latitude": 34.68664,
+    "longitude": -6.00272,
+    "id": 90272
+  },
+  {
+    "city_name": "Sidi Slimane",
+    "city_name_ar": "سيدي سليمان",
+    "latitude": 34.26479,
+    "longitude": -5.92598,
+    "id": 90273
+  },
+  {
+    "city_name": "Larache",
+    "city_name_ar": "العرائش",
+    "latitude": 35.19321,
+    "longitude": -6.15572,
+    "id": 90274
+  },
+  {
+    "city_name": "Lalla Mimouna",
+    "city_name_ar": "لالة ميمونة",
+    "latitude": 34.84606,
+    "longitude": -6.06645,
+    "id": 90275
+  },
+  {
+    "city_name": "Bouznika",
+    "city_name_ar": "بوزنيقة",
+    "latitude": 33.78942,
+    "longitude": -7.15968,
+    "id": 90276
+  },
+  {
+    "city_name": "Sidi Ifni",
+    "city_name_ar": "سيدي افني",
+    "latitude": 29.37975,
+    "longitude": -10.17299,
+    "id": 90277
+  },
+  {
+    "city_name": "Tan-Tan",
+    "city_name_ar": "طانطان",
+    "latitude": 28.43799,
+    "longitude": -11.10321,
+    "id": 90278
+  },
+  {
+    "city_name": "Safi",
+    "city_name_ar": "آسفي",
+    "latitude": 32.29939,
+    "longitude": -9.23718,
+    "id": 90279
+  },
+  {
+    "city_name": "Rabat",
+    "city_name_ar": "الرباط",
+    "latitude": 34.01325,
+    "longitude": -6.83255,
+    "id": 90280
+  },
+  {
+    "city_name": "Skhirat",
+    "city_name_ar": "الصخيرات",
+    "latitude": 33.84984,
+    "longitude": -7.04037,
+    "id": 90281
+  },
+  {
+    "city_name": "Temara",
+    "city_name_ar": "تمارة",
+    "latitude": 33.92866,
+    "longitude": -6.90656,
+    "id": 90282
+  },
+  {
+    "city_name": "Al Hoceima",
+    "city_name_ar": "الحسيمة",
+    "latitude": 35.25165,
+    "longitude": -3.93723,
+    "id": 90283
+  },
+  {
+    "city_name": "Madagh",
+    "city_name_ar": "مداغ",
+    "latitude": 35.01032,
+    "longitude": -2.33701,
+    "id": 90284
+  },
+  {
+    "city_name": "Ghouazi",
+    "city_name_ar": "الغوازي",
+    "latitude": 34.47737,
+    "longitude": -5.30235,
+    "id": 90285
+  },
+  {
+    "city_name": "Selouane",
+    "city_name_ar": "سلوان",
+    "latitude": 35.07313,
+    "longitude": -2.9423,
+    "id": 90286
+  },
+  {
+    "city_name": "Dakhla",
+    "city_name_ar": "الداخلة",
+    "latitude": 30.41071,
+    "longitude": -9.55572,
+    "id": 90287
+  },
+  {
+    "city_name": "Sidi Qacem",
+    "city_name_ar": "سيدي قاسم",
+    "latitude": 34.22149,
+    "longitude": -5.70775,
+    "id": 90288
+  },
+  {
+    "city_name": "Imzourene",
+    "city_name_ar": "Imzourene",
+    "latitude": 35.15,
+    "longitude": -3.86,
+    "id": 90289
+  },
+  {
+    "city_name": "Dar Chaoui",
+    "city_name_ar": "دار شاوي",
+    "latitude": 35.5377,
+    "longitude": -5.71742,
+    "id": 90290
+  },
+  {
+    "city_name": "Tit Mellil",
+    "city_name_ar": "تيط مليل",
+    "latitude": 33.55808,
+    "longitude": -7.48647,
+    "id": 90291
+  },
+  {
+    "city_name": "Aourir",
+    "city_name_ar": "أورير",
+    "latitude": 30.49238,
+    "longitude": -9.6355,
+    "id": 90292
+  },
+  {
+    "city_name": "Tetouan",
+    "city_name_ar": "تطوان",
+    "latitude": 35.57845,
+    "longitude": -5.36837,
+    "id": 90293
+  },
+  {
+    "city_name": "Oulad Frej",
+    "city_name_ar": "أولاد فريج",
+    "latitude": 32.95956,
+    "longitude": -8.2274,
+    "id": 90294
+  },
+  {
+    "city_name": "Oulad Teima",
+    "city_name_ar": "أولاد تايمة",
+    "latitude": 30.39467,
+    "longitude": -9.20897,
+    "id": 90295
+  },
+  {
+    "city_name": "Had Kourt",
+    "city_name_ar": "حد كرت",
+    "latitude": 34.61588,
+    "longitude": -5.7404,
+    "id": 90296
+  },
+  {
+    "city_name": "Bouskoura",
+    "city_name_ar": "بوسكورة",
+    "latitude": 33.44976,
+    "longitude": -7.65239,
+    "id": 90297
+  },
+  {
+    "city_name": "Arbaoua",
+    "city_name_ar": "اربوا",
+    "latitude": 34.90239,
+    "longitude": -5.94871,
+    "id": 90298
+  },
+  {
+    "city_name": "Sidi Smail",
+    "city_name_ar": "سيدي اسماعيل",
+    "latitude": 32.82268,
+    "longitude": -8.5081,
+    "id": 90299
+  },
+  {
+    "city_name": "Karia Ba Mohamed",
+    "city_name_ar": "كاريا با محمد",
+    "latitude": 34.37094,
+    "longitude": -5.2138,
+    "id": 90300
+  },
+  {
+    "city_name": "Mediouna",
+    "city_name_ar": "مديونة",
+    "latitude": 33.45161,
+    "longitude": -7.51995,
+    "id": 90301
+  },
+  {
+    "city_name": "Berkane",
+    "city_name_ar": "بركان",
+    "latitude": 34.92,
+    "longitude": -2.32,
+    "id": 90302
+  },
+  {
+    "city_name": "Ourtzagh",
+    "city_name_ar": "Ourtzagh",
+    "latitude": 34.53477,
+    "longitude": -4.96878,
+    "id": 90303
+  },
+  {
+    "city_name": "Boulaouane",
+    "city_name_ar": "بولعوان",
+    "latitude": 32.85995,
+    "longitude": -8.05555,
+    "id": 90304
+  },
+  {
+    "city_name": "Talmest",
+    "city_name_ar": "تلمست",
+    "latitude": 31.81,
+    "longitude": -9.33,
+    "id": 90305
+  },
+  {
+    "city_name": "Sidi Bennour",
+    "city_name_ar": "سيدي بنور",
+    "latitude": 32.65236,
+    "longitude": -8.42769,
+    "id": 90306
+  },
+  {
+    "city_name": "Nouaseur",
+    "city_name_ar": "النواصر",
+    "latitude": 33.3802,
+    "longitude": -7.62105,
+    "id": 90307
+  },
+  {
+    "city_name": "Tiztoutine",
+    "city_name_ar": "تيزوتين",
+    "latitude": 34.97159,
+    "longitude": -3.15273,
+    "id": 90308
+  },
+  {
+    "city_name": "Zaio",
+    "city_name_ar": "زايو",
+    "latitude": 34.94282,
+    "longitude": -2.7329,
+    "id": 90309
+  },
+  {
+    "city_name": "Sidi Redouane",
+    "city_name_ar": "سيدي رضوان",
+    "latitude": 34.68692,
+    "longitude": -5.44538,
+    "id": 90310
+  },
+  {
+    "city_name": "Tirhanimine",
+    "city_name_ar": "Tirhanimine",
+    "latitude": 35.23619,
+    "longitude": -3.95453,
+    "id": 90311
+  },
+  {
+    "city_name": "Tissa",
+    "city_name_ar": "تيسة",
+    "latitude": 34.28791,
+    "longitude": -4.66372,
+    "id": 90312
+  },
+  {
+    "city_name": "Berrechid",
+    "city_name_ar": "برشيد",
+    "latitude": 33.26553,
+    "longitude": -7.58754,
+    "id": 90313
+  },
+  {
+    "city_name": "Taroudant",
+    "city_name_ar": "تارودانت",
+    "latitude": 30.47028,
+    "longitude": -8.87695,
+    "id": 90314
+  },
+  {
+    "city_name": "Boudinar",
+    "city_name_ar": "بودينار",
+    "latitude": 35.15601,
+    "longitude": -3.62358,
+    "id": 90315
+  },
+  {
+    "city_name": "Tiznit",
+    "city_name_ar": "تزنيت",
+    "latitude": 29.69742,
+    "longitude": -9.73162,
+    "id": 90316
+  },
+  {
+    "city_name": "Galaz",
+    "city_name_ar": "جلز",
+    "latitude": 34.54424,
+    "longitude": -4.80355,
+    "id": 90317
+  },
+  {
+    "city_name": "Bouarouss",
+    "city_name_ar": "بواروس",
+    "latitude": 34.36,
+    "longitude": -4.81,
+    "id": 90318
+  },
+  {
+    "city_name": "Ahfir",
+    "city_name_ar": "أحفير",
+    "latitude": 34.95368,
+    "longitude": -2.10027,
+    "id": 90319
+  },
+  {
+    "city_name": "Moulay Yacoub",
+    "city_name_ar": "مولاي يعقوب",
+    "latitude": 34.08793,
+    "longitude": -5.18171,
+    "id": 90320
+  },
+  {
+    "city_name": "Sidi Harazem",
+    "city_name_ar": "سيدي حرازم",
+    "latitude": 34.02733,
+    "longitude": -4.88343,
+    "id": 90321
+  },
+  {
+    "city_name": "Tazemmourt",
+    "city_name_ar": "تازمورت",
+    "latitude": 30.40854,
+    "longitude": -8.829,
+    "id": 90322
+  },
+  {
+    "city_name": "Smimou",
+    "city_name_ar": "Smimou",
+    "latitude": 31.21014,
+    "longitude": -9.70863,
+    "id": 90323
+  },
+  {
+    "city_name": "Senada",
+    "city_name_ar": "Senada",
+    "latitude": 35.07452,
+    "longitude": -4.21583,
+    "id": 90324
+  },
+  {
+    "city_name": "Guelmim",
+    "city_name_ar": "گلميم",
+    "latitude": 28.98696,
+    "longitude": -10.05738,
+    "id": 90325
+  },
+  {
+    "city_name": "Oued Amlil",
+    "city_name_ar": "وادي أمليل",
+    "latitude": 34.2,
+    "longitude": -4.28,
+    "id": 90326
+  },
+  {
+    "city_name": "Youssoufia",
+    "city_name_ar": "اليوسفية",
+    "latitude": 32.24634,
+    "longitude": -8.52941,
+    "id": 90327
+  },
+  {
+    "city_name": "Sidi Bousber",
+    "city_name_ar": "سيدي بوسبر",
+    "latitude": 34.56283,
+    "longitude": -5.36208,
+    "id": 90328
+  },
+  {
+    "city_name": "Ouijjane",
+    "city_name_ar": "Ouijjane",
+    "latitude": 29.62777,
+    "longitude": -9.53959,
+    "id": 90329
+  },
+  {
+    "city_name": "Ouazzane",
+    "city_name_ar": "وزان",
+    "latitude": 34.79711,
+    "longitude": -5.58224,
+    "id": 90330
+  },
+  {
+    "city_name": "Matmata",
+    "city_name_ar": "مطماطة",
+    "latitude": 34.09914,
+    "longitude": -4.55219,
+    "id": 90331
+  },
+  {
+    "city_name": "Brikcha",
+    "city_name_ar": "Brikcha",
+    "latitude": 34.96732,
+    "longitude": -5.57295,
+    "id": 90332
+  },
+  {
+    "city_name": "Saddina",
+    "city_name_ar": "Saddina",
+    "latitude": 35.6141,
+    "longitude": -5.45191,
+    "id": 90333
+  },
+  {
+    "city_name": "Tamanar",
+    "city_name_ar": "تمنا",
+    "latitude": 31.00087,
+    "longitude": -9.67802,
+    "id": 90334
+  },
+  {
+    "city_name": "Mellila",
+    "city_name_ar": "مليلة",
+    "latitude": 33.38,
+    "longitude": -7.14,
+    "id": 90335
+  },
+  {
+    "city_name": "Zinat",
+    "city_name_ar": "زينة",
+    "latitude": 35.43,
+    "longitude": -5.4,
+    "id": 90336
+  },
+  {
+    "city_name": "Tiflet",
+    "city_name_ar": "تيفلت",
+    "latitude": 33.89469,
+    "longitude": -6.30649,
+    "id": 90337
+  },
+  {
+    "city_name": "Moulay Bouchta",
+    "city_name_ar": "مولاي بوشتا",
+    "latitude": 34.48922,
+    "longitude": -5.13023,
+    "id": 90338
+  },
+  {
+    "city_name": "Sidi Moussa",
+    "city_name_ar": "سيدي موسى",
+    "latitude": 32.27209,
+    "longitude": -7.20095,
+    "id": 90339
+  },
+  {
+    "city_name": "Chichaoua",
+    "city_name_ar": "شيشاوة",
+    "latitude": 31.54351,
+    "longitude": -8.76275,
+    "id": 90340
+  },
+  {
+    "city_name": "Arazane",
+    "city_name_ar": "ارازان",
+    "latitude": 30.50346,
+    "longitude": -8.60637,
+    "id": 90341
+  },
+  {
+    "city_name": "Riah",
+    "city_name_ar": "رياح",
+    "latitude": 33.15122,
+    "longitude": -7.37504,
+    "id": 90342
+  },
+  {
+    "city_name": "Oulad Daoud",
+    "city_name_ar": "اولاد داود",
+    "latitude": 34.40438,
+    "longitude": -4.69342,
+    "id": 90343
+  },
+  {
+    "city_name": "Settat",
+    "city_name_ar": "سطات",
+    "latitude": 33.00103,
+    "longitude": -7.61662,
+    "id": 90344
+  },
+  {
+    "city_name": "Guercif",
+    "city_name_ar": "جرسيف",
+    "latitude": 34.22568,
+    "longitude": -3.35361,
+    "id": 90345
+  },
+  {
+    "city_name": "Zoumi",
+    "city_name_ar": "الزومي",
+    "latitude": 34.80321,
+    "longitude": -5.34458,
+    "id": 90346
+  },
+  {
+    "city_name": "Dar Ould Zidouh",
+    "city_name_ar": "دار Ould Zidouh",
+    "latitude": 32.31247,
+    "longitude": -6.90494,
+    "id": 90347
+  },
+  {
+    "city_name": "Gueltat Zemmour",
+    "city_name_ar": "جلطات زمور",
+    "latitude": 25.14276,
+    "longitude": -12.37168,
+    "id": 90348
+  },
+  {
+    "city_name": "Reggada",
+    "city_name_ar": "Reggada",
+    "latitude": 29.58016,
+    "longitude": -9.70086,
+    "id": 90349
+  },
+  {
+    "city_name": "Midar",
+    "city_name_ar": "Midar",
+    "latitude": 34.94025,
+    "longitude": -3.53311,
+    "id": 90350
+  },
+  {
+    "city_name": "Hassi Berkane",
+    "city_name_ar": "حاسي بركان",
+    "latitude": 34.83898,
+    "longitude": -2.86699,
+    "id": 90351
+  },
+  {
+    "city_name": "Taourirt",
+    "city_name_ar": "تاوريرت",
+    "latitude": 34.40731,
+    "longitude": -2.89732,
+    "id": 90352
+  },
+  {
+    "city_name": "Rouadi",
+    "city_name_ar": "الروادي",
+    "latitude": 35.14119,
+    "longitude": -4.13631,
+    "id": 90353
+  },
+  {
+    "city_name": "Fes",
+    "city_name_ar": "فاس",
+    "latitude": 34.03715,
+    "longitude": -4.9998,
+    "id": 90354
+  },
+  {
+    "city_name": "Sidi Abdallah",
+    "city_name_ar": "سيدي عبد الله",
+    "latitude": 32.53544,
+    "longitude": -7.83243,
+    "id": 90355
+  },
+  {
+    "city_name": "Derdara",
+    "city_name_ar": "دردرة",
+    "latitude": 35.11041,
+    "longitude": -5.29015,
+    "id": 90356
+  },
+  {
+    "city_name": "Teroual",
+    "city_name_ar": "تروال",
+    "latitude": 34.67452,
+    "longitude": -5.27331,
+    "id": 90357
+  },
+  {
+    "city_name": "Fkih Ben Salah",
+    "city_name_ar": "الفقيه بن صالح",
+    "latitude": 32.50093,
+    "longitude": -6.69062,
+    "id": 90358
+  },
+  {
+    "city_name": "Oulad Ayad",
+    "city_name_ar": "اولاد عياد",
+    "latitude": 32.2,
+    "longitude": -6.8,
+    "id": 90359
+  },
+  {
+    "city_name": "Khemisset",
+    "city_name_ar": "الخميسات",
+    "latitude": 33.82404,
+    "longitude": -6.06627,
+    "id": 90360
+  },
+  {
+    "city_name": "Timezgana",
+    "city_name_ar": "Timezgana",
+    "latitude": 34.58,
+    "longitude": -4.73,
+    "id": 90361
+  },
+  {
+    "city_name": "Bzou",
+    "city_name_ar": "بزو",
+    "latitude": 32.09171,
+    "longitude": -7.04786,
+    "id": 90362
+  },
+  {
+    "city_name": "Marrakesh",
+    "city_name_ar": "مراكش",
+    "latitude": 31.63416,
+    "longitude": -7.99994,
+    "id": 90363
+  },
+  {
+    "city_name": "Tiout",
+    "city_name_ar": "تيوت",
+    "latitude": 30.3887,
+    "longitude": -8.69572,
+    "id": 90364
+  },
+  {
+    "city_name": "Tabouda",
+    "city_name_ar": "تبودة",
+    "latitude": 34.71923,
+    "longitude": -5.1403,
+    "id": 90365
+  },
+  {
+    "city_name": "Sidi Jaber",
+    "city_name_ar": "سيدي جابر",
+    "latitude": 32.38952,
+    "longitude": -6.42095,
+    "id": 90366
+  },
+  {
+    "city_name": "Guisser",
+    "city_name_ar": "Guisser",
+    "latitude": 32.76645,
+    "longitude": -7.49818,
+    "id": 90367
+  },
+  {
+    "city_name": "Kasba Tadla",
+    "city_name_ar": "قصبة تادلة",
+    "latitude": 32.5977,
+    "longitude": -6.26844,
+    "id": 90368
+  },
+  {
+    "city_name": "Sidi Bou Othmane",
+    "city_name_ar": "سيدي بو عثمان",
+    "latitude": 31.90226,
+    "longitude": -7.94169,
+    "id": 90369
+  },
+  {
+    "city_name": "Taza",
+    "city_name_ar": "تازة",
+    "latitude": 34.21,
+    "longitude": -4.01,
+    "id": 90370
+  },
+  {
+    "city_name": "Meknes",
+    "city_name_ar": "مكناس",
+    "latitude": 33.89352,
+    "longitude": -5.54727,
+    "id": 90371
+  },
+  {
+    "city_name": "Oulad Tayeb",
+    "city_name_ar": "اولاد طيب",
+    "latitude": 33.94633,
+    "longitude": -4.99509,
+    "id": 90372
+  },
+  {
+    "city_name": "Assads",
+    "city_name_ar": "الاسد",
+    "latitude": 30.23,
+    "longitude": -8.86,
+    "id": 90373
+  },
+  {
+    "city_name": "Beni Mellal",
+    "city_name_ar": "بني ملال",
+    "latitude": 32.33725,
+    "longitude": -6.34983,
+    "id": 90374
+  },
+  {
+    "city_name": "Mhamid",
+    "city_name_ar": "محاميد",
+    "latitude": 29.82,
+    "longitude": -5.72,
+    "id": 90375
+  },
+  {
+    "city_name": "Oujda",
+    "city_name_ar": "وجدة",
+    "latitude": 34.68053,
+    "longitude": -1.90764,
+    "id": 90376
+  },
+  {
+    "city_name": "Tabia",
+    "city_name_ar": "طابية",
+    "latitude": 32.03009,
+    "longitude": -6.79985,
+    "id": 90377
+  },
+  {
+    "city_name": "Tahala",
+    "city_name_ar": "التحالة",
+    "latitude": 34.04845,
+    "longitude": -4.42795,
+    "id": 90378
+  },
+  {
+    "city_name": "Fifi",
+    "city_name_ar": "فيفي",
+    "latitude": 34.94873,
+    "longitude": -5.24798,
+    "id": 90379
+  },
+  {
+    "city_name": "Sidi Abdallah Ghiat",
+    "city_name_ar": "سيدي عبدالله غيات",
+    "latitude": 31.523,
+    "longitude": -7.833,
+    "id": 90380
+  },
+  {
+    "city_name": "Ratba",
+    "city_name_ar": "راتبا",
+    "latitude": 34.77772,
+    "longitude": -4.93989,
+    "id": 90381
+  },
+  {
+    "city_name": "Taounate",
+    "city_name_ar": "تاونات",
+    "latitude": 34.53661,
+    "longitude": -4.64009,
+    "id": 90382
+  },
+  {
+    "city_name": "Timoulilt",
+    "city_name_ar": "تيموليلت",
+    "latitude": 32.20368,
+    "longitude": -6.4666,
+    "id": 90383
+  },
+  {
+    "city_name": "El Aioun",
+    "city_name_ar": "العيون",
+    "latitude": 34.58319,
+    "longitude": -2.50612,
+    "id": 90384
+  },
+  {
+    "city_name": "Chefchaouene",
+    "city_name_ar": "شفشاون",
+    "latitude": 35.16878,
+    "longitude": -5.2636,
+    "id": 90385
+  },
+  {
+    "city_name": "Aoulouz",
+    "city_name_ar": "Aoulouz",
+    "latitude": 30.67307,
+    "longitude": -8.18087,
+    "id": 90386
+  },
+  {
+    "city_name": "Taounza",
+    "city_name_ar": "تاونزا",
+    "latitude": 32.09368,
+    "longitude": -6.60607,
+    "id": 90387
+  },
+  {
+    "city_name": "Tata",
+    "city_name_ar": "طاطا",
+    "latitude": 29.74409,
+    "longitude": -7.973,
+    "id": 90388
+  },
+  {
+    "city_name": "Sidi Rahhal",
+    "city_name_ar": "سيدي رحال",
+    "latitude": 31.65031,
+    "longitude": -7.47288,
+    "id": 90389
+  },
+  {
+    "city_name": "Zouiat ech Cheikh",
+    "city_name_ar": "زويات الشيخ",
+    "latitude": 32.64562,
+    "longitude": -5.91783,
+    "id": 90390
+  },
+  {
+    "city_name": "Ezzhiliga",
+    "city_name_ar": "ازحيليكة",
+    "latitude": 33.3,
+    "longitude": -6.53,
+    "id": 90391
+  },
+  {
+    "city_name": "Sidi Lamine",
+    "city_name_ar": "سيدي لمين",
+    "latitude": 32.90783,
+    "longitude": -6.05069,
+    "id": 90392
+  },
+  {
+    "city_name": "Zagora",
+    "city_name_ar": "زاكورة",
+    "latitude": 30.33241,
+    "longitude": -5.8384,
+    "id": 90393
+  },
+  {
+    "city_name": "Bigoudine",
+    "city_name_ar": "Bigoudine",
+    "latitude": 30.72376,
+    "longitude": -9.21097,
+    "id": 90394
+  },
+  {
+    "city_name": "Argana",
+    "city_name_ar": "أرگانة",
+    "latitude": 30.7825,
+    "longitude": -9.11968,
+    "id": 90395
+  },
+  {
+    "city_name": "Oued Zem",
+    "city_name_ar": "واد زم",
+    "latitude": 32.8627,
+    "longitude": -6.57359,
+    "id": 90396
+  },
+  {
+    "city_name": "Mosquee",
+    "city_name_ar": "البعوض",
+    "latitude": 34.80622,
+    "longitude": -2.41297,
+    "id": 90397
+  },
+  {
+    "city_name": "Khouribga",
+    "city_name_ar": "خريبكة",
+    "latitude": 32.88108,
+    "longitude": -6.9063,
+    "id": 90398
+  },
+  {
+    "city_name": "Sefrou",
+    "city_name_ar": "صفرو",
+    "latitude": 33.83186,
+    "longitude": -4.828,
+    "id": 90399
+  },
+  {
+    "city_name": "Guenfouda",
+    "city_name_ar": "كنفوذة",
+    "latitude": 34.48361,
+    "longitude": -2.04562,
+    "id": 90400
+  },
+  {
+    "city_name": "Jorf",
+    "city_name_ar": "الجرف",
+    "latitude": 31.49442,
+    "longitude": -4.40598,
+    "id": 90401
+  },
+  {
+    "city_name": "Khenifra",
+    "city_name_ar": "خنيفرة",
+    "latitude": 32.9391,
+    "longitude": -5.6686,
+    "id": 90402
+  },
+  {
+    "city_name": "Fezna",
+    "city_name_ar": "فاسنا",
+    "latitude": 31.52921,
+    "longitude": -4.45562,
+    "id": 90403
+  },
+  {
+    "city_name": "Boujniba",
+    "city_name_ar": "بوجنيبة",
+    "latitude": 32.90046,
+    "longitude": -6.77464,
+    "id": 90404
+  },
+  {
+    "city_name": "Bab Taza",
+    "city_name_ar": "باب تازة",
+    "latitude": 35.06166,
+    "longitude": -5.19828,
+    "id": 90405
+  },
+  {
+    "city_name": "Alnif",
+    "city_name_ar": "النيف",
+    "latitude": 31.11411,
+    "longitude": -5.17154,
+    "id": 90406
+  },
+  {
+    "city_name": "Missour",
+    "city_name_ar": "ميسور",
+    "latitude": 33.04893,
+    "longitude": -3.98947,
+    "id": 90407
+  },
+  {
+    "city_name": "Bouabout",
+    "city_name_ar": "بوعبوط",
+    "latitude": 31.26554,
+    "longitude": -9.17865,
+    "id": 90408
+  },
+  {
+    "city_name": "Figuig (Centre)",
+    "city_name_ar": "فكيك (وسط)",
+    "latitude": 32.10891,
+    "longitude": -1.22855,
+    "id": 90409
+  },
+  {
+    "city_name": "Tmourghout",
+    "city_name_ar": "تمرغوت",
+    "latitude": 33.9065,
+    "longitude": -4.02696,
+    "id": 90410
+  },
+  {
+    "city_name": "Tadrart",
+    "city_name_ar": "تادرت",
+    "latitude": 30.77477,
+    "longitude": -9.45951,
+    "id": 90411
+  },
+  {
+    "city_name": "Sidi Amar",
+    "city_name_ar": "سيدي عمار",
+    "latitude": 32.94987,
+    "longitude": -5.83225,
+    "id": 90412
+  },
+  {
+    "city_name": "Timezgadiouine",
+    "city_name_ar": "تمزگديوين",
+    "latitude": 30.88366,
+    "longitude": -9.04548,
+    "id": 90413
+  },
+  {
+    "city_name": "Demnate",
+    "city_name_ar": "دمنات",
+    "latitude": 31.73443,
+    "longitude": -7.00505,
+    "id": 90414
+  },
+  {
+    "city_name": "Tanalt",
+    "city_name_ar": "تانالت",
+    "latitude": 29.77548,
+    "longitude": -9.16796,
+    "id": 90415
+  },
+  {
+    "city_name": "Agdz",
+    "city_name_ar": "أكدز",
+    "latitude": 30.69356,
+    "longitude": -6.44628,
+    "id": 90416
+  },
+  {
+    "city_name": "Bhalil",
+    "city_name_ar": "البهاليل",
+    "latitude": 33.85194,
+    "longitude": -4.87228,
+    "id": 90417
+  },
+  {
+    "city_name": "Touama",
+    "city_name_ar": "تواما",
+    "latitude": 31.53501,
+    "longitude": -7.49291,
+    "id": 90418
+  },
+  {
+    "city_name": "Amizmiz",
+    "city_name_ar": "أمزميز",
+    "latitude": 31.21673,
+    "longitude": -8.23184,
+    "id": 90419
+  },
+  {
+    "city_name": "Tamorot",
+    "city_name_ar": "تموروت",
+    "latitude": 34.93632,
+    "longitude": -4.7794,
+    "id": 90420
+  },
+  {
+    "city_name": "Tidili Mesfioua",
+    "city_name_ar": "تيدلي مسفيوة",
+    "latitude": 31.46586,
+    "longitude": -7.61199,
+    "id": 90421
+  },
+  {
+    "city_name": "Tafraout",
+    "city_name_ar": "تافراوت",
+    "latitude": 29.72449,
+    "longitude": -8.9747,
+    "id": 90422
+  },
+  {
+    "city_name": "Debdou",
+    "city_name_ar": "دبدو",
+    "latitude": 33.98228,
+    "longitude": -3.04263,
+    "id": 90423
+  },
+  {
+    "city_name": "Taliouine",
+    "city_name_ar": "تالوين",
+    "latitude": 30.52917,
+    "longitude": -7.91262,
+    "id": 90424
+  },
+  {
+    "city_name": "Rislane",
+    "city_name_ar": "Rislane",
+    "latitude": 34.76987,
+    "longitude": -2.46034,
+    "id": 90425
+  },
+  {
+    "city_name": "Aknoul",
+    "city_name_ar": "اكنول",
+    "latitude": 34.65371,
+    "longitude": -3.86754,
+    "id": 90426
+  },
+  {
+    "city_name": "El Hajeb",
+    "city_name_ar": "الحاجب",
+    "latitude": 33.68786,
+    "longitude": -5.371,
+    "id": 90427
+  },
+  {
+    "city_name": "Jebel Tiskaouine",
+    "city_name_ar": "جبل تيسكاوين",
+    "latitude": 31.02722,
+    "longitude": -5.11643,
+    "id": 90428
+  },
+  {
+    "city_name": "Goulmima",
+    "city_name_ar": "گلميمة",
+    "latitude": 31.69227,
+    "longitude": -4.95256,
+    "id": 90429
+  },
+  {
+    "city_name": "Targuist",
+    "city_name_ar": "تارجويست",
+    "latitude": 34.93769,
+    "longitude": -4.31856,
+    "id": 90430
+  },
+  {
+    "city_name": "Aoufous",
+    "city_name_ar": "أوفوس",
+    "latitude": 31.68,
+    "longitude": -4.17,
+    "id": 90431
+  },
+  {
+    "city_name": "Errachidia",
+    "city_name_ar": "الرشيدية",
+    "latitude": 31.9314,
+    "longitude": -4.42663,
+    "id": 90432
+  },
+  {
+    "city_name": "Taouloukoult",
+    "city_name_ar": "تاولوكلت",
+    "latitude": 31.22218,
+    "longitude": -9.07943,
+    "id": 90433
+  },
+  {
+    "city_name": "Jerada",
+    "city_name_ar": "جرادة",
+    "latitude": 34.31,
+    "longitude": -2.16,
+    "id": 90434
+  },
+  {
+    "city_name": "Tarsouat",
+    "city_name_ar": "ترسوات",
+    "latitude": 29.58153,
+    "longitude": -9.02664,
+    "id": 90435
+  },
+  {
+    "city_name": "Ajdir",
+    "city_name_ar": "أجدير",
+    "latitude": 34.74347,
+    "longitude": -3.97582,
+    "id": 90436
+  },
+  {
+    "city_name": "El Ksiba",
+    "city_name_ar": "القصيبة",
+    "latitude": 32.57286,
+    "longitude": -6.01947,
+    "id": 90437
+  },
+  {
+    "city_name": "Tizguine",
+    "city_name_ar": "Tizguine",
+    "latitude": 31.22836,
+    "longitude": -8.31611,
+    "id": 90438
+  },
+  {
+    "city_name": "Tiouli",
+    "city_name_ar": "Tiouli",
+    "latitude": 34.36679,
+    "longitude": -1.83705,
+    "id": 90439
+  },
+  {
+    "city_name": "Abadou",
+    "city_name_ar": "أبادو",
+    "latitude": 31.57917,
+    "longitude": -7.31308,
+    "id": 90440
+  },
+  {
+    "city_name": "Ouarzazat",
+    "city_name_ar": "ورزازات",
+    "latitude": 30.91894,
+    "longitude": -6.89341,
+    "id": 90441
+  },
+  {
+    "city_name": "Tabia",
+    "city_name_ar": "طابية",
+    "latitude": 30.03462,
+    "longitude": -8.87688,
+    "id": 90442
+  },
+  {
+    "city_name": "Tazouta",
+    "city_name_ar": "تازوطة",
+    "latitude": 33.66991,
+    "longitude": -4.63392,
+    "id": 90443
+  },
+  {
+    "city_name": "Amalou",
+    "city_name_ar": "امالو",
+    "latitude": 30.19153,
+    "longitude": -8.74873,
+    "id": 90444
+  },
+  {
+    "city_name": "Bouarfa",
+    "city_name_ar": "بوعرفة",
+    "latitude": 32.53379,
+    "longitude": -1.96209,
+    "id": 90445
+  },
+  {
+    "city_name": "Oulmes",
+    "city_name_ar": "ولماس",
+    "latitude": 33.42585,
+    "longitude": -6.00137,
+    "id": 90446
+  },
+  {
+    "city_name": "Aguelmous",
+    "city_name_ar": "اكلموس",
+    "latitude": 33.16139,
+    "longitude": -5.84626,
+    "id": 90447
+  },
+  {
+    "city_name": "Zerkten",
+    "city_name_ar": "Zerkten",
+    "latitude": 31.4447,
+    "longitude": -7.39224,
+    "id": 90448
+  },
+  {
+    "city_name": "Adassil",
+    "city_name_ar": "العدائل",
+    "latitude": 31.10783,
+    "longitude": -8.49083,
+    "id": 90449
+  },
+  {
+    "city_name": "Amersid",
+    "city_name_ar": "أمرسيد",
+    "latitude": 32.74983,
+    "longitude": -4.47063,
+    "id": 90450
+  },
+  {
+    "city_name": "Iguidi",
+    "city_name_ar": "Iguidi",
+    "latitude": 30.83826,
+    "longitude": -7.90294,
+    "id": 90451
+  },
+  {
+    "city_name": "Skoura",
+    "city_name_ar": "سكورة",
+    "latitude": 31.06262,
+    "longitude": -6.5525,
+    "id": 90452
+  },
+  {
+    "city_name": "Ouaoula",
+    "city_name_ar": "واولى",
+    "latitude": 31.87,
+    "longitude": -6.75,
+    "id": 90453
+  },
+  {
+    "city_name": "Moulay Brahim",
+    "city_name_ar": "مولاي براهيم",
+    "latitude": 31.28785,
+    "longitude": -7.9683,
+    "id": 90454
+  },
+  {
+    "city_name": "Azrou",
+    "city_name_ar": "أزرو",
+    "latitude": 33.43443,
+    "longitude": -5.22126,
+    "id": 90455
+  },
+  {
+    "city_name": "Tinghir",
+    "city_name_ar": "تنغير",
+    "latitude": 31.51472,
+    "longitude": -5.53278,
+    "id": 90456
+  },
+  {
+    "city_name": "Amerzgane",
+    "city_name_ar": "أمرزگان",
+    "latitude": 31.0437,
+    "longitude": -7.21037,
+    "id": 90457
+  },
+  {
+    "city_name": "Azilal",
+    "city_name_ar": "أزيلال",
+    "latitude": 31.96156,
+    "longitude": -6.57109,
+    "id": 90458
+  },
+  {
+    "city_name": "Kerrouchen",
+    "city_name_ar": "كروشن",
+    "latitude": 32.79639,
+    "longitude": -5.3188,
+    "id": 90459
+  },
+  {
+    "city_name": "Tazarine",
+    "city_name_ar": "تازارين",
+    "latitude": 33.88307,
+    "longitude": -4.1862,
+    "id": 90460
+  },
+  {
+    "city_name": "Taznakht",
+    "city_name_ar": "تازناخت",
+    "latitude": 30.57836,
+    "longitude": -7.20341,
+    "id": 90461
+  },
+  {
+    "city_name": "Isseksi",
+    "city_name_ar": "إسكسي",
+    "latitude": 32.22981,
+    "longitude": -6.27661,
+    "id": 90462
+  },
+  {
+    "city_name": "Tifni",
+    "city_name_ar": "تفني",
+    "latitude": 31.62777,
+    "longitude": -6.94093,
+    "id": 90463
+  },
+  {
+    "city_name": "Imider",
+    "city_name_ar": "Imider",
+    "latitude": 31.37324,
+    "longitude": -5.79384,
+    "id": 90464
+  },
+  {
+    "city_name": "Midelt",
+    "city_name_ar": "ميدلت",
+    "latitude": 32.6852,
+    "longitude": -4.74512,
+    "id": 90465
+  },
+  {
+    "city_name": "Anergui",
+    "city_name_ar": "Anergui",
+    "latitude": 32.06914,
+    "longitude": -5.93961,
+    "id": 90466
+  },
+  {
+    "city_name": "Sidi Yahya Ou Saad",
+    "city_name_ar": "سيدي يحيى سعد",
+    "latitude": 32.68011,
+    "longitude": -5.57738,
+    "id": 90467
+  },
+  {
+    "city_name": "Boumia",
+    "city_name_ar": "بوميا",
+    "latitude": 32.7236,
+    "longitude": -5.1025,
+    "id": 90468
+  },
+  {
+    "city_name": "Azgour",
+    "city_name_ar": "أزغور",
+    "latitude": 31.13753,
+    "longitude": -8.31488,
+    "id": 90469
+  },
+  {
+    "city_name": "Amouguer",
+    "city_name_ar": "أموجور",
+    "latitude": 32.27491,
+    "longitude": -4.93535,
+    "id": 90470
+  },
+  {
+    "city_name": "Assoul",
+    "city_name_ar": "Assoul",
+    "latitude": 31.95286,
+    "longitude": -5.20812,
+    "id": 90471
+  },
+  {
+    "city_name": "Ifrane",
+    "city_name_ar": "إفران",
+    "latitude": 33.52666,
+    "longitude": -5.11019,
+    "id": 90472
+  },
+  {
+    "city_name": "Itzer",
+    "city_name_ar": "Itzer",
+    "latitude": 32.8783,
+    "longitude": -5.0515,
+    "id": 90473
+  },
+  {
+    "city_name": "Almis Marmoucha",
+    "city_name_ar": "الميس مرموشة",
+    "latitude": 33.32,
+    "longitude": -4.18,
+    "id": 90474
+  },
+  {
+    "city_name": "Adar",
+    "city_name_ar": "ادار",
+    "latitude": 30.14111,
+    "longitude": -8.37221,
+    "id": 90475
+  },
+  {
+    "city_name": "Boulemane",
+    "city_name_ar": "بولمان",
+    "latitude": 33.36376,
+    "longitude": -4.72896,
+    "id": 90476
+  },
+  {
+    "city_name": "Agadir Melloul",
+    "city_name_ar": "اگادير ملول",
+    "latitude": 30.22492,
+    "longitude": -7.79601,
+    "id": 90477
+  },
+  {
+    "city_name": "Talzemt",
+    "city_name_ar": "تالزمت",
+    "latitude": 33.59,
+    "longitude": -4.19,
+    "id": 90478
+  },
+  {
+    "city_name": "Telouet",
+    "city_name_ar": "تلوات",
+    "latitude": 31.28925,
+    "longitude": -7.23789,
+    "id": 90479
+  },
+  {
+    "city_name": "Tabant",
+    "city_name_ar": "تبانت",
+    "latitude": 31.65255,
+    "longitude": -6.41049,
+    "id": 90480
+  },
+  {
+    "city_name": "Ifrane",
+    "city_name_ar": "إفران",
+    "latitude": 31.70217,
+    "longitude": -6.3494,
+    "id": 90481
+  },
+  {
+    "city_name": "Tilmi",
+    "city_name_ar": "تيلمي",
+    "latitude": 31.81794,
+    "longitude": -5.76812,
+    "id": 90482
+  },
+  {
+    "city_name": "Imilchil",
+    "city_name_ar": "إملشيل",
+    "latitude": 32.15309,
+    "longitude": -5.62453,
+    "id": 90483
+  },
+  {
+    "city_name": "Dakhla",
+    "city_name_ar": "الداخلة",
+    "latitude": 23.691848,
+    "longitude": -15.939631,
+    "id": 150603
+  },
+  {
+    "city_name": "Tineghir",
+    "city_name_ar": "تنغير",
+    "latitude": 31.51571,
+    "longitude": -5.53428,
+    "id": 160524
+  },
+  {
+    "city_name": "Taounate",
+    "city_name_ar": "تاونات",
+    "latitude": 34.53822,
+    "longitude": -4.64143,
+    "id": 160526
+  },
+  {
+    "city_name": "Sale",
+    "city_name_ar": "سلا",
+    "latitude": 34.03892,
+    "longitude": -6.8166,
+    "id": 160527
+  },
+  {
+    "city_name": "Safi",
+    "city_name_ar": "آسفي",
+    "latitude": 32.310059,
+    "longitude": -9.236617,
+    "id": 160528
+  },
+  {
+    "city_name": "Ouirgane",
+    "city_name_ar": "ويرڭان",
+    "latitude": 31.17766,
+    "longitude": -8.07329,
+    "id": 160529
+  },
+  {
+    "city_name": "Marrakech",
+    "city_name_ar": "مراكش",
+    "latitude": 31.63148,
+    "longitude": -8.00828,
+    "id": 160530
+  },
+  {
+    "city_name": "Aghbablu",
+    "city_name_ar": "أغبابلو",
+    "latitude": 31.70217,
+    "longitude": -6.3494,
+    "id": 160531
+  },
+  {
+    "city_name": "Imzouren",
+    "city_name_ar": "إمزورن",
+    "latitude": 35.147543,
+    "longitude": -3.849099,
+    "id": 160532
+  },
+  {
+    "city_name": "Figuig",
+    "city_name_ar": "فكيك",
+    "latitude": 32.10891,
+    "longitude": -1.22855,
+    "id": 160533
+  },
+  {
+    "city_name": "Essaouira",
+    "city_name_ar": "الصويرة",
+    "latitude": 31.514231,
+    "longitude": -9.771688,
+    "id": 160534
+  },
+  {
+    "city_name": "El Jadida",
+    "city_name_ar": "الجديدة",
+    "latitude": 33.2333333,
+    "longitude": -8.5,
+    "id": 160535
+  },
+  {
+    "city_name": "Casablanca",
+    "city_name_ar": "الدار البيضاء",
+    "latitude": 33.59278,
+    "longitude": -7.61916,
+    "id": 160536
+  },
+  {
+    "city_name": "Bouarfa",
+    "city_name_ar": "بوعرفة",
+    "latitude": 32.53,
+    "longitude": -1.95,
+    "id": 160537
+  },
+  {
+    "city_name": "Beni Mellal",
+    "city_name_ar": "بني ملال",
+    "latitude": 32.3394444,
+    "longitude": -6.3608333,
+    "id": 160538
+  },
+  {
+    "city_name": "Aguelmous",
+    "city_name_ar": "اكلموس",
+    "latitude": 33.15,
+    "longitude": -5.83,
+    "id": 160539
+  },
+  {
+    "city_name": "Mediouna",
+    "city_name_ar": "مديونة",
+    "latitude": 33.47,
+    "longitude": -7.53,
+    "id": 160540
+  },
+  {
+    "city_name": "Errachidia",
+    "city_name_ar": "الرشيدية",
+    "latitude": 31.92754,
+    "longitude": -4.42852,
+    "id": 160541
+  },
+  {
+    "city_name": "Bni Bouayach",
+    "city_name_ar": "بني بوعياش",
+    "latitude": 35.102522,
+    "longitude": -3.840797,
+    "id": 166247
+  },
+  {
+    "city_name": "Fnideq",
+    "city_name_ar": "الفنيدق",
+    "latitude": 35.847526,
+    "longitude": -5.357788,
+    "id": 166255
+  },
+  {
+    "city_name": "Bouanane",
+    "city_name_ar": "بوعنان",
+    "latitude": 32.0388053,
+    "longitude": -3.0451011,
+    "id": 166256
+  },
+  {
+    "city_name": "Tanger",
+    "city_name_ar": "طنجة",
+    "latitude": 35.76727,
+    "longitude": -5.79975,
+    "id": 166257
+  },
+  {
+    "city_name": "Sidi Bettache",
+    "city_name_ar": "سيدي بيتاش",
+    "latitude": 33.567868,
+    "longitude": -6.89141,
+    "id": 166266
+  },
+  {
+    "city_name": "Tinejdad",
+    "city_name_ar": "تنجداد",
+    "latitude": 31.5130657,
+    "longitude": -5.0323374,
+    "id": 166287
+  },
+  {
+    "city_name": "Oujda",
+    "city_name_ar": "وجدة‎",
+    "latitude": 34.677874,
+    "longitude": -1.929306,
+    "id": 211066
+  },
+  {
+    "city_name": "Meknes",
+    "city_name_ar": "مكناس",
+    "latitude": 33.8978116,
+    "longitude": -5.5319836,
+    "id": 211067
+  },
+  {
+    "city_name": "Agadir",
+    "city_name_ar": "أݣادير",
+    "latitude": 30.4211144,
+    "longitude": -9.5830626,
+    "id": 211076
+  },
+  {
+    "city_name": "Arfoud",
+    "city_name_ar": "أرفود",
+    "latitude": 31.4324061,
+    "longitude": -4.2342572,
+    "id": 211112
+  },
+  {
+    "city_name": "Mirleft",
+    "city_name_ar": "ميرلفت",
+    "latitude": 29.579707,
+    "longitude": -10.031733,
+    "id": 211124
+  },
+  {
+    "city_name": "Sidi Ifni",
+    "city_name_ar": "سيدي إفني",
+    "latitude": 29.3791253,
+    "longitude": -10.1715632,
+    "id": 211136
+  },
+  {
+    "city_name": "Aglou",
+    "city_name_ar": "أگلو",
+    "latitude": 29.802491,
+    "longitude": -9.83336,
+    "id": 211137
+  },
+  {
+    "city_name": "Ouarzazate",
+    "city_name_ar": "ورزازات",
+    "latitude": 30.920193,
+    "longitude": -6.910923,
+    "id": 211209
+  },
+  {
+    "city_name": "Fez",
+    "city_name_ar": "فاس",
+    "latitude": 34.0346534,
+    "longitude": -5.0161926,
+    "id": 211221
+  },
+  {
+    "city_name": "Ounagha",
+    "city_name_ar": "اوناغا",
+    "latitude": 31.53312,
+    "longitude": -9.548635,
+    "id": 211240
+  },
+  {
+    "city_name": "El Hanchane",
+    "city_name_ar": "الحنشان",
+    "latitude": 31.529237,
+    "longitude": -9.435857,
+    "id": 211245
+  },
+  {
+    "city_name": "Chefchaouen",
+    "city_name_ar": "شفشاون",
+    "latitude": 35.1687748,
+    "longitude": -5.2683454,
+    "id": 211359
+  },
+  {
+    "city_name": "Oukaïmeden",
+    "city_name_ar": "أوكايمدن",
+    "latitude": 31.205279,
+    "longitude": -7.8613235,
+    "id": 211423
+  },
+  {
+    "city_name": "Aït Benhaddou",
+    "city_name_ar": "آيت بن حدو",
+    "latitude": 31.0451122,
+    "longitude": -7.1310323,
+    "id": 211433
+  },
+  {
+    "city_name": "Arkeman",
+    "city_name_ar": "قرية أركمان",
+    "latitude": 35.1032431,
+    "longitude": -2.7389833,
+    "id": 211436
+  },
+  {
+    "city_name": "Saïdia",
+    "city_name_ar": "السعيدية",
+    "latitude": 35.0822208,
+    "longitude": -2.2245756,
+    "id": 211439
+  },
+  {
+    "city_name": "Tendrara",
+    "city_name_ar": "تندرارة",
+    "latitude": 33.049438,
+    "longitude": -2.000089,
+    "id": 211446
+  },
+  {
+    "city_name": "Bni Tadjite",
+    "city_name_ar": "بني تادجيت",
+    "latitude": 32.289782,
+    "longitude": -3.466617,
+    "id": 211457
+  },
+  {
+    "city_name": "Salé",
+    "city_name_ar": "سلا",
+    "latitude": 34.044889,
+    "longitude": -6.814017,
+    "id": 211458
+  },
+  {
+    "city_name": "Tétouan",
+    "city_name_ar": "تطوان",
+    "latitude": 35.570175,
+    "longitude": -5.3742776,
+    "id": 211480
+  },
+  {
+    "city_name": "Meski",
+    "city_name_ar": "مسكي",
+    "latitude": 31.859381,
+    "longitude": -4.280053,
+    "id": 211567
+  },
+  {
+    "city_name": "Tounfit",
+    "city_name_ar": "تونفيت",
+    "latitude": 32.472297,
+    "longitude": -5.2439123,
+    "id": 211592
+  },
+  {
+    "city_name": "Timahdite",
+    "city_name_ar": "تيمحضيت",
+    "latitude": 33.238277,
+    "longitude": -5.060916,
+    "id": 211660
+  },
+  {
+    "city_name": "Al-Kuwayra",
+    "city_name_ar": "الكويرة",
+    "latitude": 20.723322,
+    "longitude": -17.089121,
+    "id": 211910
+  },
+  {
+    "city_name": "Igrem Laalam",
+    "city_name_ar": "اغرم لعلام",
+    "latitude": 32.5259113,
+    "longitude": -6.1531826,
+    "id": 211967
+  },
+  {
+    "city_name": "Tifnit",
+    "city_name_ar": "تيفنيت",
+    "latitude": 30.201102,
+    "longitude": -9.641614,
+    "id": 211987
+  },
+  {
+    "city_name": "Amskroud",
+    "city_name_ar": "أمسكروض",
+    "latitude": 30.531111,
+    "longitude": -9.330926999999999,
+    "id": 211990
+  },
+  {
+    "city_name": "Souk El Arbaa",
+    "city_name_ar": "سوق الأربعاء الغرب",
+    "latitude": 34.6875201,
+    "longitude": -6.0002583000000005,
+    "id": 212000
+  },
+  {
+    "city_name": "Kassita",
+    "city_name_ar": "كسيطة",
+    "latitude": 34.8909,
+    "longitude": -3.72925,
+    "id": 212002
+  },
+  {
+    "city_name": "Er-Rich",
+    "city_name_ar": "الريش",
+    "latitude": 32.25677,
+    "longitude": -4.498189,
+    "id": 212038
+  },
+  {
+    "city_name": "Tah",
+    "city_name_ar": "طاح",
+    "latitude": 27.671982,
+    "longitude": -12.956325,
+    "id": 212054
+  },
+  {
+    "city_name": "Boucraa",
+    "city_name_ar": "بوكراع",
+    "latitude": 26.3575997,
+    "longitude": -12.8443515,
+    "id": 212055
+  },
+  {
+    "city_name": "Guelta Zemmur",
+    "city_name_ar": "گلتة زمور",
+    "latitude": 25.148848,
+    "longitude": -12.369461,
+    "id": 212056
+  },
+  {
+    "city_name": "Ain Leuh",
+    "city_name_ar": "عين اللوح",
+    "latitude": 33.292125,
+    "longitude": -5.338439,
+    "id": 212100
+  },
+  {
+    "city_name": "Tanant",
+    "city_name_ar": "تنانت",
+    "latitude": 31.862498,
+    "longitude": -6.942027,
+    "id": 215388
+  },
+  {
+    "city_name": "M'Rirt",
+    "city_name_ar": "مريرت",
+    "latitude": 33.163826,
+    "longitude": -5.565428,
+    "id": 215422
+  },
+  {
+    "city_name": "Jorf El Melha",
+    "city_name_ar": "جرف الملحة",
+    "latitude": 34.488696,
+    "longitude": -5.509151,
+    "id": 215452
+  },
+  {
+    "city_name": "Moulay Idriss Zerhoun",
+    "city_name_ar": "مولاي إدريس",
+    "latitude": 34.055188,
+    "longitude": -5.525518,
+    "id": 215453
+  },
+  {
+    "city_name": "Msied",
+    "city_name_ar": "المسيد",
+    "latitude": 28.014845,
+    "longitude": -10.813831,
+    "id": 215515
+  },
+  {
+    "city_name": "Ait Igas",
+    "city_name_ar": "آيت إيگاس",
+    "latitude": 30.542391,
+    "longitude": -8.719923,
+    "id": 215516
+  },
+  {
+    "city_name": "Sebt Gzoula",
+    "city_name_ar": "سبت گزولة",
+    "latitude": 32.108297,
+    "longitude": -9.084263,
+    "id": 215525
+  },
+  {
+    "city_name": "Arbaa Sahel",
+    "city_name_ar": "أربعاء الساحل",
+    "latitude": 29.6048891,
+    "longitude": -9.9172448,
+    "id": 215528
+  },
+  {
+    "city_name": "Sidi Kacem",
+    "city_name_ar": "سيدي قاسم",
+    "latitude": 34.226412,
+    "longitude": -5.711434,
+    "id": 215530
+  },
+  {
+    "city_name": "Ksar el-Kebir",
+    "city_name_ar": "القصر الكبير",
+    "latitude": 34.999218,
+    "longitude": -5.898724,
+    "id": 215531
+  },
+  {
+    "city_name": "Sbouya",
+    "city_name_ar": "اصبويا",
+    "latitude": 29.152011,
+    "longitude": -10.2018348,
+    "id": 215532
+  },
+  {
+    "city_name": "Tnine Amellou",
+    "city_name_ar": "اثنين أملو",
+    "latitude": 29.292717,
+    "longitude": -10.020624,
+    "id": 215557
+  },
+  {
+    "city_name": "Moulay Bousselham",
+    "city_name_ar": "مولاي بو سلهام",
+    "latitude": 34.878009,
+    "longitude": -6.2940760000000004,
+    "id": 215581
+  },
+  {
+    "city_name": "Al Aaroui",
+    "city_name_ar": "العروي‎",
+    "latitude": 35.010185,
+    "longitude": -3.012265,
+    "id": 215592
+  },
+  {
+    "city_name": "Ben Taieb",
+    "city_name_ar": "بن الطيب",
+    "latitude": 35.045437,
+    "longitude": -3.4549950000000003,
+    "id": 215593
+  },
+  {
+    "city_name": "Ouled-Teima",
+    "city_name_ar": "أولاد تايمة",
+    "latitude": 30.3927088,
+    "longitude": -9.2132982,
+    "id": 215595
+  },
+  {
+    "city_name": "Oulad Terna",
+    "city_name_ar": "اولاد الترنة",
+    "latitude": 30.4378849,
+    "longitude": -8.8488696,
+    "id": 215597
+  },
+  {
+    "city_name": "Agourai",
+    "city_name_ar": "أكوراي",
+    "latitude": 33.643846,
+    "longitude": -5.589918,
+    "id": 215599
+  },
+  {
+    "city_name": "Tahannaout",
+    "city_name_ar": "تحناوت",
+    "latitude": 31.3672735,
+    "longitude": -7.9447676,
+    "id": 215628
+  },
+  {
+    "city_name": "Ighrem N'Ougdal",
+    "city_name_ar": "إغرم نوڭدال",
+    "latitude": 31.228184,
+    "longitude": -7.423589,
+    "id": 215661
+  },
+  {
+    "city_name": "Midar",
+    "city_name_ar": "ميضار",
+    "latitude": 34.939898,
+    "longitude": -3.534348,
+    "id": 215799
+  },
+  {
+    "city_name": "Ben Guerir",
+    "city_name_ar": "بن جرير",
+    "latitude": 32.239034,
+    "longitude": -7.958131,
+    "id": 215804
+  },
+  {
+    "city_name": "El Kelaa des Sraghna",
+    "city_name_ar": "قلعة السراغنة",
+    "latitude": 32.05433,
+    "longitude": -7.40676,
+    "id": 215815
+  },
+  {
+    "city_name": "Icht",
+    "city_name_ar": "اشت",
+    "latitude": 29.0539378,
+    "longitude": -8.8462922,
+    "id": 215936
+  },
+  {
+    "city_name": "Oulad Abbou",
+    "city_name_ar": "أولاد عبو",
+    "latitude": 33.113834,
+    "longitude": -7.932301,
+    "id": 215938
+  },
+  {
+    "city_name": "ⵜⴰⵣⵖⴰⵉⵏ /T'azaghin/",
+    "city_name_ar": "تازاغين",
+    "latitude": 35.18338,
+    "longitude": -3.507493,
+    "id": 216582
+  },
+  {
+    "city_name": "Tafersit",
+    "city_name_ar": "تفرسيت",
+    "latitude": 35.00693,
+    "longitude": -3.540866,
+    "id": 216586
+  },
+  {
+    "city_name": "Aousserd",
+    "city_name_ar": "أوسرد",
+    "latitude": 22.567,
+    "longitude": -14.312906,
+    "id": 216651
+  },
+  {
+    "city_name": "Sidi Kaouki",
+    "city_name_ar": "سيدي كاوكي",
+    "latitude": 31.3564022,
+    "longitude": -9.797749,
+    "id": 216657
+  },
+  {
+    "city_name": "Lasarka",
+    "city_name_ar": "لاساركا",
+    "latitude": 23.6337423,
+    "longitude": -15.9905415,
+    "id": 216691
+  },
+  {
+    "city_name": "Tamassint",
+    "city_name_ar": "تاماسينت",
+    "latitude": 35.073389,
+    "longitude": -3.961447,
+    "id": 216701
+  },
+  {
+    "city_name": "Beni Ansar / Aït Nsar",
+    "city_name_ar": "بني انصار",
+    "latitude": 35.259687,
+    "longitude": -2.933644,
+    "id": 216711
+  },
+  {
+    "city_name": "El Aioun Sidi Mellouk",
+    "city_name_ar": "العيون سيدي ملوك",
+    "latitude": 34.578344,
+    "longitude": -2.502961,
+    "id": 216712
+  },
+  {
+    "city_name": "Sidi Allal El Bahraoui",
+    "city_name_ar": "سيدي علال البحراوي",
+    "latitude": 34.010715,
+    "longitude": -6.532357,
+    "id": 216715
+  },
+  {
+    "city_name": "Kenitra",
+    "city_name_ar": "القنيطرة",
+    "latitude": 34.26457,
+    "longitude": -6.570169,
+    "id": 216716
+  },
+  {
+    "city_name": "Aïn Harrouda",
+    "city_name_ar": "عين حرودة",
+    "latitude": 33.6353722,
+    "longitude": -7.4513985,
+    "id": 216718
+  },
+  {
+    "city_name": "Ain Cheggag",
+    "city_name_ar": "عين الشكاك",
+    "latitude": 33.887389,
+    "longitude": -5.036853,
+    "id": 216719
+  },
+  {
+    "city_name": "Médiouna",
+    "city_name_ar": "مديونة",
+    "latitude": 33.456251,
+    "longitude": -7.51944,
+    "id": 216720
+  },
+  {
+    "city_name": "Bejaad",
+    "city_name_ar": "بجعد",
+    "latitude": 32.769785,
+    "longitude": -6.394983,
+    "id": 216721
+  },
+  {
+    "city_name": "Ait Ourir",
+    "city_name_ar": "ايت اورير",
+    "latitude": 31.563898000000002,
+    "longitude": -7.662276,
+    "id": 216723
+  },
+  {
+    "city_name": "Rommani",
+    "city_name_ar": "الرماني",
+    "latitude": 33.528608,
+    "longitude": -6.604434,
+    "id": 216724
+  },
+  {
+    "city_name": "Farkhana",
+    "city_name_ar": "فرخانة",
+    "latitude": 35.286107,
+    "longitude": -2.980918,
+    "id": 216726
+  },
+  {
+    "city_name": "Bni Chiker",
+    "city_name_ar": "جماعة بني شيكر",
+    "latitude": 35.277213,
+    "longitude": -3.013687,
+    "id": 216727
+  },
+  {
+    "city_name": "Souk Larbaa Beni Hassan",
+    "city_name_ar": "سوق الأربعاء بني حسان",
+    "latitude": 35.31913,
+    "longitude": -5.3558969,
+    "id": 216728
+  },
+  {
+    "city_name": "Ifrane Atlas-Saghir",
+    "city_name_ar": "يفران الأطلس الصغير",
+    "latitude": 29.218819,
+    "longitude": -9.491069,
+    "id": 216729
+  },
+  {
+    "city_name": "Laayoune",
+    "city_name_ar": "إقليم العيون",
+    "latitude": 27.154512,
+    "longitude": -13.1953921,
+    "id": 216730
+  },
+  {
+    "city_name": "Sidi Boubker, Jerada Province",
+    "city_name_ar": "سيدي بوبكر",
+    "latitude": 34.4773665,
+    "longitude": -1.7343057,
+    "id": 216732
+  },
+  {
+    "city_name": "Tazenakht",
+    "city_name_ar": "تازناخت",
+    "latitude": 31.8849966,
+    "longitude": -4.3191944,
+    "id": 216733
+  },
+  {
+    "city_name": "Aghbala",
+    "city_name_ar": "اغبالة",
+    "latitude": 32.480569,
+    "longitude": -5.643029,
+    "id": 216738
+  },
+  {
+    "city_name": "Tichla",
+    "city_name_ar": "تشلا",
+    "latitude": 21.6347955,
+    "longitude": -14.8938895,
+    "id": 216741
+  },
+  {
+    "city_name": "Iksane",
+    "city_name_ar": "إكسان",
+    "latitude": 35.1328054,
+    "longitude": -3.0318358,
+    "id": 216742
+  },
+  {
+    "city_name": "Beni Sidel",
+    "city_name_ar": "بني سيدال الجبل",
+    "latitude": 35.1849015,
+    "longitude": -3.0480195,
+    "id": 216743
+  },
+  {
+    "city_name": "Tafoughalt",
+    "city_name_ar": "تافوغالت",
+    "latitude": 34.8055488,
+    "longitude": -2.411397,
+    "id": 216748
+  },
+  {
+    "city_name": "Sidi Slimane Echcharraa",
+    "city_name_ar": "سيدي سليمان الشارة",
+    "latitude": 34.909135,
+    "longitude": -2.3496420000000002,
+    "id": 216749
+  },
+  {
+    "city_name": "Anjra",
+    "city_name_ar": "أنجرة",
+    "latitude": 35.6642411,
+    "longitude": -5.5110678,
+    "id": 216754
+  },
+  {
+    "city_name": "Aïn El Aouda",
+    "city_name_ar": "عين العودة",
+    "latitude": 33.803077,
+    "longitude": -6.79413,
+    "id": 216763
+  },
+  {
+    "city_name": "M'Haya",
+    "city_name_ar": "المهاية",
+    "latitude": 33.976917,
+    "longitude": -5.249915,
+    "id": 216769
+  },
+  {
+    "city_name": "Ain Karma",
+    "city_name_ar": "عين كرمة",
+    "latitude": 34.008594,
+    "longitude": -5.616954,
+    "id": 216770
+  },
+  {
+    "city_name": "Loulad",
+    "city_name_ar": "لولاد",
+    "latitude": 32.991959,
+    "longitude": -7.128576,
+    "id": 216771
+  },
+  {
+    "city_name": "Ahlaf",
+    "city_name_ar": "احلاف",
+    "latitude": 33.28785,
+    "longitude": -7.204819,
+    "id": 216778
+  },
+  {
+    "city_name": "Tamesna, Rabat",
+    "city_name_ar": "تامسنا",
+    "latitude": 33.8319811,
+    "longitude": -6.9203446,
+    "id": 216779
+  },
+  {
+    "city_name": "Ketama",
+    "city_name_ar": "كتامة",
+    "latitude": 34.876453,
+    "longitude": -4.619558,
+    "id": 216786
+  },
+  {
+    "city_name": "Douar ait Rmada",
+    "city_name_ar": "دوار آيت رمادة",
+    "latitude": 32.5456969,
+    "longitude": -6.3646708,
+    "id": 216789
+  },
+  {
+    "city_name": "Douar ait Jillali",
+    "city_name_ar": "دوار آيت الجيلالي",
+    "latitude": 32.5457774,
+    "longitude": -6.3703109,
+    "id": 216790
+  },
+  {
+    "city_name": "Douar ait el Haj",
+    "city_name_ar": "دوار آيت الحاج",
+    "latitude": 32.5478547,
+    "longitude": -6.3709742,
+    "id": 216791
+  },
+  {
+    "city_name": "Mechraa Hammadi",
+    "city_name_ar": "مشرا حمادي",
+    "latitude": 34.733519,
+    "longitude": -2.799057,
+    "id": 216793
+  },
+  {
+    "city_name": "Ouled Yaïch",
+    "city_name_ar": "أولاد ايعيش",
+    "latitude": 32.436348,
+    "longitude": -6.3299282,
+    "id": 216796
+  },
+  {
+    "city_name": "Mograne",
+    "city_name_ar": "مقران",
+    "latitude": 34.412485,
+    "longitude": -6.427556,
+    "id": 216807
+  },
+  {
+    "city_name": "Haddada",
+    "city_name_ar": "حدادة",
+    "latitude": 34.223052,
+    "longitude": -6.510859,
+    "id": 216808
+  },
+  {
+    "city_name": "Kariat Ben Aouda",
+    "city_name_ar": "قرية بن عودة",
+    "latitude": 34.771168,
+    "longitude": -5.953013,
+    "id": 216809
+  },
+  {
+    "city_name": "Souk Tlet El Gharb",
+    "city_name_ar": "سوق ثلاثاء الغرب",
+    "latitude": 34.601171,
+    "longitude": -6.173848,
+    "id": 216810
+  },
+  {
+    "city_name": "Oued El Makhazine",
+    "city_name_ar": "واد المخازن",
+    "latitude": 34.880914,
+    "longitude": -5.831723,
+    "id": 216811
+  },
+  {
+    "city_name": "Ayacha",
+    "city_name_ar": "عياشة",
+    "latitude": 35.388177,
+    "longitude": -5.895669,
+    "id": 216814
+  },
+  {
+    "city_name": "Bni Garfett",
+    "city_name_ar": "بني ڭرفط",
+    "latitude": 35.257308,
+    "longitude": -5.8324110000000005,
+    "id": 216815
+  },
+  {
+    "city_name": "Laouamra",
+    "city_name_ar": "العوامرة",
+    "latitude": 35.067151,
+    "longitude": -6.0886569999999995,
+    "id": 216816
+  },
+  {
+    "city_name": "Laaouama",
+    "city_name_ar": "العوامة",
+    "latitude": 35.724696,
+    "longitude": -5.798495,
+    "id": 216817
+  },
+  {
+    "city_name": "Laanoussar",
+    "city_name_ar": "لعنوصار",
+    "latitude": 33.684354,
+    "longitude": -4.869937,
+    "id": 216820
+  },
+  {
+    "city_name": "Bir Lehlou",
+    "city_name_ar": "بئر الحلوة",
+    "latitude": 26.349372,
+    "longitude": -9.57651,
+    "id": 216824
+  },
+  {
+    "city_name": "Ras Ijerri",
+    "city_name_ar": "رأس اجري",
+    "latitude": 33.789545,
+    "longitude": -5.709909,
+    "id": 216825
+  },
+  {
+    "city_name": "Oued Jdida",
+    "city_name_ar": "واد الجديدة",
+    "latitude": 33.924289,
+    "longitude": -5.3690999999999995,
+    "id": 216828
+  },
+  {
+    "city_name": "Souaken",
+    "city_name_ar": "السواكن",
+    "latitude": 35.121032,
+    "longitude": -5.953751,
+    "id": 216829
+  },
+  {
+    "city_name": "Khemis Sahel",
+    "city_name_ar": "الساحل",
+    "latitude": 35.255385,
+    "longitude": -6.080232,
+    "id": 216831
+  },
+  {
+    "city_name": "Zouada",
+    "city_name_ar": "زوادة",
+    "latitude": 35.047012,
+    "longitude": -6.058477,
+    "id": 216833
+  },
+  {
+    "city_name": "Guigou, Morocco",
+    "city_name_ar": "كيكو",
+    "latitude": 33.384529,
+    "longitude": -4.83332,
+    "id": 216835
+  },
+  {
+    "city_name": "Oued Heimer",
+    "city_name_ar": "وادي الحيمر",
+    "latitude": 34.454161,
+    "longitude": -1.898747,
+    "id": 216836
+  },
+  {
+    "city_name": "El Orjane",
+    "city_name_ar": "العرجان",
+    "latitude": 33.396042,
+    "longitude": -3.728659,
+    "id": 216839
+  },
+  {
+    "city_name": "Fritissa",
+    "city_name_ar": "فرتيسة",
+    "latitude": 33.619489,
+    "longitude": -3.546803,
+    "id": 216840
+  },
+  {
+    "city_name": "Imouzzer Marmoucha",
+    "city_name_ar": "إموزار مرموشة",
+    "latitude": 33.470015,
+    "longitude": -4.294914,
+    "id": 216841
+  },
+  {
+    "city_name": "Allmoddan",
+    "city_name_ar": "ألمدان",
+    "latitude": 29.6857334,
+    "longitude": -8.8843665,
+    "id": 216843
+  },
+  {
+    "city_name": "Tikmirt",
+    "city_name_ar": "تكميرت",
+    "latitude": 29.6890269,
+    "longitude": -8.8837964,
+    "id": 216844
+  },
+  {
+    "city_name": "Outat El Haj",
+    "city_name_ar": "أوطاط الحاج",
+    "latitude": 33.337366,
+    "longitude": -3.696438,
+    "id": 216856
+  },
+  {
+    "city_name": "Ouaoumana",
+    "city_name_ar": "واو مانة",
+    "latitude": 32.711134,
+    "longitude": -5.806639,
+    "id": 216864
+  },
+  {
+    "city_name": "Tissaf",
+    "city_name_ar": "تيساف",
+    "latitude": 33.397648,
+    "longitude": -3.584048,
+    "id": 216868
+  },
+  {
+    "city_name": "Ighoud",
+    "city_name_ar": "إيغود",
+    "latitude": 31.859189,
+    "longitude": -8.881157,
+    "id": 216877
+  },
+  {
+    "city_name": "Amagour",
+    "city_name_ar": "اماكور",
+    "latitude": 30.2382086,
+    "longitude": -8.8562057,
+    "id": 216886
+  },
+  {
+    "city_name": "Tizi n Tarkatin",
+    "city_name_ar": "تيزي ن تارقتين",
+    "latitude": 29.7647892,
+    "longitude": -8.8488415,
+    "id": 216887
+  },
+  {
+    "city_name": "Zaouiat Cheikh",
+    "city_name_ar": "زاوية الشيخ",
+    "latitude": 32.6441708,
+    "longitude": -5.916589,
+    "id": 216892
+  },
+  {
+    "city_name": "Boujdour",
+    "city_name_ar": "بوجدور",
+    "latitude": 26.1263378,
+    "longitude": -14.4836537,
+    "id": 216895
+  },
+  {
+    "city_name": "Bir Gandus",
+    "city_name_ar": "بئر كندوز",
+    "latitude": 21.613729,
+    "longitude": -16.471069,
+    "id": 216939
+  },
+  {
+    "city_name": "Dar Oulad Zidouh",
+    "city_name_ar": "دار اولاد زيدوح",
+    "latitude": 32.308718,
+    "longitude": -6.902587,
+    "id": 216941
+  },
+  {
+    "city_name": "Drarga",
+    "city_name_ar": "الدراركة",
+    "latitude": 30.3820295,
+    "longitude": -9.4764214,
+    "id": 216942
+  },
+  {
+    "city_name": "Lqliaa",
+    "city_name_ar": "القليعة",
+    "latitude": 30.29865,
+    "longitude": -9.4620176,
+    "id": 216943
+  },
+  {
+    "city_name": "Moulay Bouazza",
+    "city_name_ar": "مولاي بوعزة",
+    "latitude": 33.224507,
+    "longitude": -6.197919,
+    "id": 216946
+  },
+  {
+    "city_name": "Ouled Tayeb",
+    "city_name_ar": "أولاد الطيب",
+    "latitude": 33.959838,
+    "longitude": -4.99562,
+    "id": 216948
+  },
+  {
+    "city_name": "Ain Bida",
+    "city_name_ar": "عين البيضاء",
+    "latitude": 34.0167401,
+    "longitude": -4.9158776,
+    "id": 216949
+  },
+  {
+    "city_name": "Touarga",
+    "city_name_ar": "توارگة",
+    "latitude": 34.007331,
+    "longitude": -6.829443,
+    "id": 216971
+  },
+  {
+    "city_name": "Mechouar Fes Jdid",
+    "city_name_ar": "المشور فاس الجديد",
+    "latitude": 34.0560618,
+    "longitude": -4.9939696,
+    "id": 216972
+  },
+  {
+    "city_name": "Zaaroura",
+    "city_name_ar": "زعرورة",
+    "latitude": 35.240502,
+    "longitude": -5.735957,
+    "id": 216978
+  },
+  {
+    "city_name": "Skoura M'Daz",
+    "city_name_ar": "سكورة مداز",
+    "latitude": 33.518893,
+    "longitude": -4.544113,
+    "id": 216979
+  },
+  {
+    "city_name": "El Marsa",
+    "city_name_ar": "المرسى",
+    "latitude": 27.0929902,
+    "longitude": -13.4092408,
+    "id": 216982
+  },
+  {
+    "city_name": "El Argoub",
+    "city_name_ar": "العركوب",
+    "latitude": 23.559154,
+    "longitude": -15.899411,
+    "id": 216983
+  },
+  {
+    "city_name": "Sebt Jahjouh",
+    "city_name_ar": "جحجوح",
+    "latitude": 33.716461,
+    "longitude": -5.672818,
+    "id": 216984
+  },
+  {
+    "city_name": "Lakhiaita",
+    "city_name_ar": "الخيايطة",
+    "latitude": 33.36696,
+    "longitude": -7.776957,
+    "id": 216985
+  },
+  {
+    "city_name": "Oulad Mimoun",
+    "city_name_ar": "أولاد ميمون",
+    "latitude": 34.2083962,
+    "longitude": -5.0521881,
+    "id": 216987
+  },
+  {
+    "city_name": "Idmine",
+    "city_name_ar": "إضمين",
+    "latitude": 30.6102148,
+    "longitude": -9.3488077,
+    "id": 216988
+  },
+  {
+    "city_name": "Sayyidī Aḥmad Awhāmid",
+    "city_name_ar": "سيدي أحمد أوحامد",
+    "latitude": 31.3398741,
+    "longitude": -9.7080408,
+    "id": 216989
+  },
+  {
+    "city_name": "Oulad M Barek",
+    "city_name_ar": "أولاد امبارك",
+    "latitude": 32.280074,
+    "longitude": -6.458886,
+    "id": 216990
+  },
+  {
+    "city_name": "Ameur Seflia",
+    "city_name_ar": "عامر السفلية",
+    "latitude": 34.2952936,
+    "longitude": -6.4181483,
+    "id": 216993
+  },
+  {
+    "city_name": "Gueznaia",
+    "city_name_ar": "كزناية",
+    "latitude": 35.703352,
+    "longitude": -5.887293,
+    "id": 216994
+  },
+  {
+    "city_name": "Laagagcha",
+    "city_name_ar": "لعڭاڭشة",
+    "latitude": 32.547393,
+    "longitude": -8.724821,
+    "id": 216997
+  },
+  {
+    "city_name": "Zaouiat Saiss",
+    "city_name_ar": "زاوية سايس",
+    "latitude": 32.794091,
+    "longitude": -8.651519,
+    "id": 216998
+  },
+  {
+    "city_name": "Ahdil",
+    "city_name_ar": "أهديل",
+    "latitude": 31.561312,
+    "longitude": -8.894399,
+    "id": 216999
+  },
+  {
+    "city_name": "Tafajight",
+    "city_name_ar": "تفاجيغت",
+    "latitude": 33.569023,
+    "longitude": -4.295826,
+    "id": 217000
+  },
+  {
+    "city_name": "Toubkal",
+    "city_name_ar": "توبقال",
+    "latitude": 30.9924273,
+    "longitude": -7.8166001,
+    "id": 217002
+  },
+  {
+    "city_name": "Amghras",
+    "city_name_ar": "أمغراس",
+    "latitude": 31.210452,
+    "longitude": -8.182755,
+    "id": 217004
+  },
+  {
+    "city_name": "Lambarkiyine",
+    "city_name_ar": "لمباركيين",
+    "latitude": 33.206835,
+    "longitude": -7.491731,
+    "id": 217006
+  },
+  {
+    "city_name": "Dar Chaffai",
+    "city_name_ar": "دار الشافعي",
+    "latitude": 32.548388,
+    "longitude": -7.500463,
+    "id": 217007
+  },
+  {
+    "city_name": "Arbaa Ait Abdellah",
+    "city_name_ar": "أربعاء آيت عبدالله",
+    "latitude": 29.34584,
+    "longitude": -9.903702,
+    "id": 217008
+  },
+  {
+    "city_name": "Tangarfa",
+    "city_name_ar": "تانڭرفا",
+    "latitude": 29.283527,
+    "longitude": -9.941167,
+    "id": 217009
+  },
+  {
+    "city_name": "Imi N'Fast",
+    "city_name_ar": "إمي نفاست",
+    "latitude": 29.078677,
+    "longitude": -10.10004,
+    "id": 217010
+  },
+  {
+    "city_name": "Ouled Youssef",
+    "city_name_ar": "أولاد يوسف",
+    "latitude": 32.4806517,
+    "longitude": -6.3768774,
+    "id": 217011
+  },
+  {
+    "city_name": "Ijoukak",
+    "city_name_ar": "إجوكاك",
+    "latitude": 30.9932031,
+    "longitude": -8.1534705,
+    "id": 217012
+  },
+  {
+    "city_name": "ougouguen toudma",
+    "city_name_ar": "دوار اجوجن تودما",
+    "latitude": 29.8060258,
+    "longitude": -9.1125337,
+    "id": 217013
+  },
+  {
+    "city_name": "Anfeg",
+    "city_name_ar": "أنفك",
+    "latitude": 29.442485,
+    "longitude": -9.236247,
+    "id": 217015
+  },
+  {
+    "city_name": "Sidi H'Saine Ou Ali",
+    "city_name_ar": "سيدي حساين أو علي",
+    "latitude": 29.423741,
+    "longitude": -9.705799,
+    "id": 217018
+  },
+  {
+    "city_name": "Sidi M'Bark",
+    "city_name_ar": "سيدي مبارك",
+    "latitude": 29.382363,
+    "longitude": -9.810642,
+    "id": 217021
+  },
+  {
+    "city_name": "Sijilmasa",
+    "city_name_ar": "بني امحمد سجلماسة",
+    "latitude": 31.2633827,
+    "longitude": -4.2319244000000005,
+    "id": 217022
+  },
+  {
+    "city_name": "Ait Tamlil",
+    "city_name_ar": "آيت تامليل",
+    "latitude": 31.482514,
+    "longitude": -6.945495,
+    "id": 217023
+  },
+  {
+    "city_name": "Oulad Said l'Oued",
+    "city_name_ar": "أولاد سعيد الواد",
+    "latitude": 32.5440324,
+    "longitude": -6.3675719,
+    "id": 217024
+  },
+  {
+    "city_name": "Tiffert N'Ait Hamza",
+    "city_name_ar": "تيفرت نآيت حمزة",
+    "latitude": 32.318468,
+    "longitude": -5.965238,
+    "id": 217026
+  },
+  {
+    "city_name": "Bni Ayat",
+    "city_name_ar": "بني عياط",
+    "latitude": 32.21552,
+    "longitude": -6.583267,
+    "id": 217027
+  },
+  {
+    "city_name": "Ait Sidi Daoud",
+    "city_name_ar": "آيت سيدي داود",
+    "latitude": 31.633379,
+    "longitude": -7.643771,
+    "id": 217028
+  },
+  {
+    "city_name": "Sebt Ennabour",
+    "city_name_ar": "سبت النابور",
+    "latitude": 29.413723,
+    "longitude": -9.583541,
+    "id": 217029
+  },
+  {
+    "city_name": "Tilougguite",
+    "city_name_ar": "تيلوڭيت",
+    "latitude": 32.03074,
+    "longitude": -6.209478,
+    "id": 217030
+  },
+  {
+    "city_name": "El Ouatia",
+    "city_name_ar": "الوطية",
+    "latitude": 28.497867,
+    "longitude": -11.332117,
+    "id": 217031
+  },
+  {
+    "city_name": "Sidi Abdallah Ou Belaid",
+    "city_name_ar": "سيدي عبدالله أو بلعيد",
+    "latitude": 29.318659,
+    "longitude": -9.585659,
+    "id": 217039
+  },
+  {
+    "city_name": "Bir Tighessit",
+    "city_name_ar": "بئر تيغیسیت",
+    "latitude": 26.0342605,
+    "longitude": -10.4957612,
+    "id": 217081
+  },
+  {
+    "city_name": "Annoual",
+    "city_name_ar": "أنوال",
+    "latitude": 35.1276485,
+    "longitude": -3.5804603999999998,
+    "id": 217083
+  },
+  {
+    "city_name": "Tifariti",
+    "city_name_ar": "تفاريتي",
+    "latitude": 26.159504,
+    "longitude": -10.558991,
+    "id": 217085
+  },
+  {
+    "city_name": "Aït Hammou ⴰⵢⵜ ⵀⴰⵎⵎⵓ ايت حمو",
+    "city_name_ar": "ايت همو",
+    "latitude": 30.2600655,
+    "longitude": -9.4047357,
+    "id": 217100
+  },
+  {
+    "city_name": "Guerguerat",
+    "city_name_ar": "الكركرات",
+    "latitude": 21.42699,
+    "longitude": -16.959925,
+    "id": 217141
+  },
+  {
+    "city_name": "Mohammedia",
+    "city_name_ar": "المحمدية",
+    "latitude": 33.6958383,
+    "longitude": -7.3893292,
+    "id": 217199
+  },
+  {
+    "city_name": "Ait ALI",
+    "city_name_ar": "أيت علي",
+    "latitude": 32.4941976,
+    "longitude": -6.2184865,
+    "id": 217222
+  },
+  {
+    "city_name": "Tindine",
+    "city_name_ar": "تينديت",
+    "latitude": 33.6645443,
+    "longitude": -3.6239184,
+    "id": 217230
+  },
+  {
+    "city_name": "Bir Anzarane",
+    "city_name_ar": "بئر أنزران",
+    "latitude": 23.8885639,
+    "longitude": -14.5313258,
+    "id": 217255
+  },
+  {
+    "city_name": "Lemseid",
+    "city_name_ar": "لمسيد",
+    "latitude": 26.5393508,
+    "longitude": -13.8367653,
+    "id": 217274
+  },
+  {
+    "city_name": "Agti El Ghazi",
+    "city_name_ar": "أغتي الغازي",
+    "latitude": 26.3832875,
+    "longitude": -14.2019306,
+    "id": 217277
+  },
+  {
+    "city_name": "Amkāla",
+    "city_name_ar": "أمكالة",
+    "latitude": 26.0752014,
+    "longitude": -11.7865321,
+    "id": 217278
+  },
+  {
+    "city_name": "Ḥawza",
+    "city_name_ar": "حوزة",
+    "latitude": 27.110991,
+    "longitude": -10.9713555,
+    "id": 217280
+  },
+  {
+    "city_name": "Ait Taguella",
+    "city_name_ar": "آيت تڭلا",
+    "latitude": 31.927235,
+    "longitude": -6.7497679999999995,
+    "id": 217282
+  },
+  {
+    "city_name": "Mijik",
+    "city_name_ar": "مجيك",
+    "latitude": 23.4472382,
+    "longitude": -12.8254976,
+    "id": 217284
+  },
+  {
+    "city_name": "Jdiriya",
+    "city_name_ar": "أجديرية",
+    "latitude": 27.247414,
+    "longitude": -10.410066,
+    "id": 217285
+  },
+  {
+    "city_name": "Oum Dreyga",
+    "city_name_ar": "أم ادريكة",
+    "latitude": 24.1015009,
+    "longitude": -13.2756581,
+    "id": 217287
+  },
+  {
+    "city_name": "Zuk",
+    "city_name_ar": "زوك",
+    "latitude": 21.6132782,
+    "longitude": -14.1476984,
+    "id": 217288
+  },
+  {
+    "city_name": "Kasbah of the Udayas",
+    "city_name_ar": "قصبة الوداية",
+    "latitude": 34.0316566,
+    "longitude": -6.8358475,
+    "id": 217313
+  },
+  {
+    "city_name": "Ait Abdelouassiaa",
+    "city_name_ar": "آيـت عـبد الـواسع",
+    "latitude": 32.5693384,
+    "longitude": -6.352482,
+    "id": 217335
+  },
+  {
+    "city_name": "Awlād Ṣabāḥ",
+    "city_name_ar": "أولاد صباح",
+    "latitude": 31.627663599999998,
+    "longitude": -8.2603767,
+    "id": 217412
+  },
+  {
+    "city_name": "Wadi al-Marsa",
+    "city_name_ar": "وادي المرسى",
+    "latitude": 35.9055586,
+    "longitude": -5.4498843,
+    "id": 217451
+  },
+  {
+    "city_name": "Tahla",
+    "city_name_ar": "تاهلة",
+    "latitude": 34.050634,
+    "longitude": -4.4224,
+    "id": 217463
+  },
+  {
+    "city_name": "Al-Manar",
+    "city_name_ar": "المنار",
+    "latitude": 35.8086349,
+    "longitude": -5.7359098,
+    "id": 217470
+  },
+  {
+    "city_name": "El Jebha",
+    "city_name_ar": "لجبهة",
+    "latitude": 35.205755,
+    "longitude": -4.666514,
+    "id": 217619
+  },
+  {
+    "city_name": "Imlili",
+    "city_name_ar": "إمليلي",
+    "latitude": 23.2349232,
+    "longitude": -16.0792488,
+    "id": 217690
+  },
+  {
+    "city_name": "Aït Oumalia ⴰⵢⵜ ⵓⵎⴰⵍⵢⴰ أيت أوماليا",
+    "city_name_ar": "ايت او ماليا",
+    "latitude": 30.262582,
+    "longitude": -9.3976201,
+    "id": 217710
+  },
+  {
+    "city_name": "Merzouga",
+    "city_name_ar": "مرزوكة",
+    "latitude": 31.0999166,
+    "longitude": -4.0140878,
+    "id": 217805
+  },
+  {
+    "city_name": "Sidi Boushab",
+    "city_name_ar": "سيدي بوسحاب",
+    "latitude": 30.468103,
+    "longitude": -9.305928,
+    "id": 217836
+  },
+  {
+    "city_name": "Dcheira El Jihadia",
+    "city_name_ar": "الدشيرة الجهادية",
+    "latitude": 30.375281,
+    "longitude": -9.528495,
+    "id": 217842
+  },
+  {
+    "city_name": "Bouzmour",
+    "city_name_ar": "بوزمور",
+    "latitude": 30.5774891,
+    "longitude": -9.2766859,
+    "id": 217843
+  },
+  {
+    "city_name": "Meharrize",
+    "city_name_ar": "مهيريز",
+    "latitude": 26.1476922,
+    "longitude": -11.0691899,
+    "id": 217848
+  },
+  {
+    "city_name": "Aghwinit",
+    "city_name_ar": "أغونيت",
+    "latitude": 22.1841843,
+    "longitude": -13.1393725,
+    "id": 217862
+  },
+  {
+    "city_name": "Dougaj",
+    "city_name_ar": "دوكاج",
+    "latitude": 22.055317,
+    "longitude": -13.553134,
+    "id": 217863
+  },
+  {
+    "city_name": "Gleibat El Foula",
+    "city_name_ar": "اكليبات الفولة",
+    "latitude": 23.5165517,
+    "longitude": -14.2050606,
+    "id": 217865
+  },
+  {
+    "city_name": "Cherafate",
+    "city_name_ar": "الشرافات",
+    "latitude": 35.6529412,
+    "longitude": -5.6584903,
+    "id": 217870
+  },
+  {
+    "city_name": "Al Qasr",
+    "city_name_ar": "القصر",
+    "latitude": 32.3403498,
+    "longitude": -6.569883,
+    "id": 217890
+  },
+  {
+    "city_name": "Imlil, Atlas Mountains",
+    "city_name_ar": "إمليل",
+    "latitude": 31.143889,
+    "longitude": -7.921819,
+    "id": 217936
+  },
+  {
+    "city_name": "Ad-Dalia",
+    "city_name_ar": "الدالية",
+    "latitude": 35.8987244,
+    "longitude": -5.4742856,
+    "id": 218098
+  },
+  {
+    "city_name": "Takhsayet",
+    "city_name_ar": "تاخصايت",
+    "latitude": 32.1966375,
+    "longitude": -6.766993,
+    "id": 218192
+  },
+  {
+    "city_name": "Ksar Ammar",
+    "city_name_ar": "قصر عمار",
+    "latitude": 31.2361561,
+    "longitude": -4.2308267,
+    "id": 218302
+  },
+  {
+    "city_name": "Tighedouine",
+    "city_name_ar": "تيغدوين",
+    "latitude": 31.2500634,
+    "longitude": -4.2179268,
+    "id": 218303
+  },
+  {
+    "city_name": "Asserghine",
+    "city_name_ar": "أسرغين",
+    "latitude": 31.2573239,
+    "longitude": -4.2211884,
+    "id": 218304
+  },
+  {
+    "city_name": "Oulad Abderrahmane",
+    "city_name_ar": "أولاد عبد الرحمان",
+    "latitude": 31.2403734,
+    "longitude": -4.2230766,
+    "id": 218305
+  },
+  {
+    "city_name": "Tanzida",
+    "city_name_ar": "تانزيضة",
+    "latitude": 29.9448994,
+    "longitude": -7.3123133,
+    "id": 218368
+  },
+  {
+    "city_name": "Arou",
+    "city_name_ar": "ارو",
+    "latitude": 30.4144666,
+    "longitude": -9.3103364,
+    "id": 218378
+  },
+  {
+    "city_name": "Douar Laarab",
+    "city_name_ar": "دوار العرب",
+    "latitude": 30.3273456,
+    "longitude": -9.2923425,
+    "id": 218391
+  },
+  {
+    "city_name": "DarRati",
+    "city_name_ar": "دار الراطي",
+    "latitude": 35.166811,
+    "longitude": -5.7207957,
+    "id": 218393
+  }
+]
