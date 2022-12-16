@@ -1,4 +1,4 @@
-# Dataviz weather project
+# Dataviz weather project ([page link](https://ajakka.github.io/dataviz-project-weather/))
 
 <img src="./doc/thumbnail.png" alt="Morocco map" height="400"/>
 
